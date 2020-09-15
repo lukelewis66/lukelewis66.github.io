@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Luke Lewis",
+    "occupation": "Full Stack Developer",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "pro-pic.jpeg",
+    "bio": "I am an Indonesian-American developer currently finishing my last year studying Computer Science at the University of California - Santa Barbara. I'm a critical and creative thinker who is always looking forward to the next challenge. Alongside fullstack development, my other passions include playing music, surfing, and good coffee.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "lukemarius@gmail.com",
+    "phone": "(619) 609-4408",
+    "address": {
+      "street": "6740 Sueno Road",
+      "city": "Goleta",
+      "state": "CA",
+      "zip": "93117"
+    },
+    "website": "http://www.github.com/lukelewis66",
+    "resumedownload": "Luke_Lewis_Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lukelewis66/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/lukelewis66",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I've worked with multiple languages and technologies throughout my career and studies and I'm always interested in playing around with new ones, however these are the one that I currently like to use:",
+    "education": [
+      {
+        "school": "University of California - Santa Barbara",
+        "degree": "Computer Science, B.S.",
+        "graduated": "June 2021",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc.",
+        "description2": [
+          "Took upper division CS classes including but not limited to: Data Structures & Algorithms, Computer Architecture & Organization, Operating Systems, Computational Science, Automata & Formal Languages and Hardware/Software Interface",
+          "Member of ESTEEM (Enhancing Success in Transfer Education for Engineering Majors) scholarship program"
+        ]
+      },
+      {
+        "school": "Santa Barbara City College",
+        "degree": "Computer Science, A.A.",
+        "graduated": "May 2019",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc.",
+        "description2": [
+          "Recipient for the Laurie-Converse scholarship for STEM majors"
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "Montecito Bank & Trust",
+        "title": "Software Engineer Intern",
+        "years": "May 2018 - April 2019",
+        "description": "Here I fixed bugs and implemented enhancements to the bank's website and content management system, which uses the ASP.NET MVC framework and languages which include C#, HTML, CSS, JavaScript, and SQL. \n\nA contribution that I'm proud of would be integrating DocuSign's API into the CMS, giving internal users quicker and easier UI access to important bank documents. ",
+        "description2": [
+          "Fixed bugs and implemented enhancements to the bank's website and content management system.",
+          "Built a proof-of-concept credit checker tool powered by Experian’s API and ASP.NET, with the goal of streamlining the bank’s credit offer and decision-making process.",
+          "Utilized DocuSign’s API to integrate it into the CMS UI for quicker access to important bank documents."
+        ]
+      },
+      {
+        "company": "SBCC Film & TV Deparment",
+        "title": "Office Assistant",
+        "years": "October 2017 - May 2018",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
+        "description2": [
+          "Streamlined a key office task of checking out film gear to students by writing and maintaining a python script"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "image": "git.png"
+      },
+      {
+        "name": "Python",
+        "image": "python.png"
+      },
+      {
+        "name": "React.js",
+        "image": "react.png"
+      },
+      {
+        "name": "Node.js",
+        "image": "nodejs.png"
+      },
+      {
+        "name": "MySQL",
+        "image": "mysql.png"
+      },
+      {
+        "name": "VSCode",
+        "image": "vscode.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Film Department Web App",
+        "category": "Full stack proof-of-concept MERN web app geared towards university film departments",
+        "image": "film-site.jpg",
+        "url": "https://github.com/lukelewis66/filmdpt-app",
+        "tech": "React.js, Node.js, Express, MySQL"
+      },
+      {
+        "title": "Top Songs By Year",
+        "category": "Android application that uses Billboards API to show top songs for a selected year",
+        "image": "TopSongsByYear.jpg",
+        "url": "https://github.com/lukelewis66/TopSongsByYear",
+        "tech": "Java, Android Studio"
+      },
+      {
+        "title": "Reservation Simplifier",
+        "category": "Python Script which parses user forms for keyswords to be inserted into another form",
+        "image": "reservation-simplifier.jpg",
+        "url": "https://github.com/lukelewis66/sbcc-reservation-simplifier",
+        "tech": "Python"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
